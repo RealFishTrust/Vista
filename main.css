@@ -1,7 +1,16 @@
 /* custom font */
 
 html, body, head {
-  font-family: 'Segoe UI'
+  font-family: 'Segoe UI';
+}
+
+
+.bg_d4b6c5 {
+    background-color: #141414;
+}
+
+.app_a01fb1 {
+    background-color: #141414;
 }
 
 /* custom colors */
