@@ -1,0 +1,77 @@
+/* custom font */
+
+html, body, head {
+  font-family: 'Segoe UI'
+}
+
+/* custom colors */
+
+.chatContent_a7d72e {
+    background-color: #191919;
+    margin-bottom: 10px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.themedBackground_d0696b {
+    background-color: #282827;
+}
+
+.container_cbd271 {
+    background-color: #141414;
+    height: 1000px;
+}
+
+.content_eed6a8 {
+    background-color: #141414;
+}
+
+.members_cbd271 {
+    background-color: #141414;
+}
+
+.member_cbd271 {
+    background-color: #141414;
+}
+
+.subtitleContainer_a7d72e {
+    background-color: #282827;
+}
+
+.clickable_fd6364 {
+    background-color: #141414;
+}
+
+
+.guilds_a4d4d9 {
+    background-color: #141414;
+}
+
+.scrollerBase_eed6a8 {
+    background-color: #141414;
+}
+
+.avatarWrapper_b2ca13 {
+    background-color: #141414;
+}
+
+.noWrap_ec1a20 {
+    background-color: #141414;
+}
+
+.theme-dark .container_b2ca13 {
+    background-color: #141414;
+}
+
+.theme-dark .themed_fc4f04 {
+    background-color: #191919;
+    border-radius: 20px 20px 0px 0px;
+    width: 1369px;
+}
+
+.channelBottomBarArea_a7d72e {
+    margin-bottom: 0px;
+}
+
+.content_a7d72e:before {
+    height: 0ex;
+}
