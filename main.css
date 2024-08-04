@@ -39,6 +39,7 @@ html, body, head {
 
 .clickable_fd6364 {
     background-color: #141414;
+    margin-top: 49px
 }
 
 
@@ -73,5 +74,5 @@ html, body, head {
 }
 
 .content_a7d72e:before {
-    height: 0ex;
+    height: 0px;
 }
